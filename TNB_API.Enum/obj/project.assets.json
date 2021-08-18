@@ -5713,26 +5713,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mawardi\\.nuget\\packages\\": {}
+    "/home/ubuntu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mawardi\\Downloads\\TNB_API\\TNB_API.Enum\\TNB_API.Enum.csproj",
+      "projectUniqueName": "/home/ubuntu/TNB_AUTH/TNB_API.Enum/TNB_API.Enum.csproj",
       "projectName": "TNB_API.Enum",
-      "projectPath": "C:\\Users\\Mawardi\\Downloads\\TNB_API\\TNB_API.Enum\\TNB_API.Enum.csproj",
-      "packagesPath": "C:\\Users\\Mawardi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mawardi\\Downloads\\TNB_API\\TNB_API.Enum\\obj\\",
+      "projectPath": "/home/ubuntu/TNB_AUTH/TNB_API.Enum/TNB_API.Enum.csproj",
+      "packagesPath": "/home/ubuntu/.nuget/packages/",
+      "outputPath": "/home/ubuntu/TNB_AUTH/TNB_API.Enum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mawardi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/ubuntu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5807,7 +5805,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
